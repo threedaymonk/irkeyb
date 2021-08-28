@@ -12,7 +12,7 @@ void setup() {
 }
 
 void type(uint32_t command) {
-  // One for All code 1840
+  // One for All Contour URC1210 code 1840
   switch(command) {
     case 0x408: break; // Power - reprogram to TV power
 
