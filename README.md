@@ -15,7 +15,7 @@ The keyboard presses map to the keyboard controls for
 You will need:
 
 1. A microcontroller with USB
-2. A TL1838 or similar infra-red connector
+2. A TL1838 or similar infra-red sensor
 3. A suitable remote
 
 You can probably do this with any board that the Arduino IDE supports. I used
